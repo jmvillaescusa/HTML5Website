@@ -4,7 +4,7 @@ After considering for some time, I've created a list that has my favourite games
 
 With so many games to release in the coming years, and the games released that I've played or have yet to try, I'll be considering the games that I played to completion. These games below influenced my gaming life and left a lasting impression for me. These below are what I can play at any point of my life and still find enjoyment out of them.
 
-Super Mario Bros. 3 [SNES] (1988)
+Super Mario Bros. 3 [NES] (1988)
 
 This was one of the first game I've played (in recollection). A simple 2-D platformer in concept, yet its flawless in execution. Controls are responsive and intuitive to the gameplay. Its visual design evokes the player that all of this is a stage play. Details include some platforms bolted to the backdrop and their shadows being noticeably visible on said backdrop, airborne platforms suspended by ropes from the top, that Mario clears a level by "exiting stage right", and how the game starts and ends by curtains rising and falling.
 
@@ -14,10 +14,16 @@ Super Smash Bros. Melee [NGC] (2001)
 
 Growing up with Smash Bros. franchise (starting with Brawl), it has become my favourite, albeit my only, fighting game franchise. It is not just different fan-favourite charaters fighting one another, but rather a celebration of video gaming. With Ultimate on the horizon (as of this writing) and its all new content and more polished gameplay (compared to Wii-U/3DS), its not going to replace Melee for me. That is not to say Ultimate will be a bad game; in fact, there are no bad Smash game. 
 
-What Melee offers that the others don't is not in the contents, but in the gameplay. Melee's precise movement and fast-paced, mechanic driven gameplay is why there is still an active competitive scene for this game, a fasinating grassroots history behind it that is still being developed (as of this writing), and is one of the most distinct and successful community to this date from not only other Smash games, but other games in the fighting genre. 
+What Melee offers that the others don't is not in the contents, but in the gameplay. Melee's precise, free-form movement and fast-paced, mechanic driven gameplay is why there is still an active competitive scene for this game, a fascinating grassroots history behind it that is still being developed (as of this writing), and is one of the most distinct and successful community to this date from not only other Smash games, but other games in the fighting genre. 
 
-Melee also offers various single player modes. Adventure Mode is where 
+Melee also offers various single player modes to keep a casual fan satisifed. Modes like Classic, Adventure, Event Matches, All-Star, Training and special modes include Home-Run Contest, Multi-Man Melee, Target Test. The beauty of this game - and an extension to all Smash games - is that it can be played both as a casual game or a competitive game.
 
-BloodBorne [PS4] (2015)
+Bloodborne [PS4] (2015)
+
+Bloodborne is a survival horror game. Although it plays out as a action-rpg like its predecessors (Dark Souls), what makes Bloodborne different is in its presentation. Its visual design evokes the player that they are in a Lovecraftian-gothic world. Yahrnam is a city filled with Victorian buildings that tower over the player, connected by murky and dank streets and indoor corridoors, blanked by the endlessly-dusk sky and full moon. The city infested by hostile enemies, plagued by the Old Blood that turned the residents into hrrifying beast that lurks the city of Yahrnam. Instead of leveling up to overcome the ememies, you level up to survive the hunt.
+
+The gameplay also differentiates itself from Bloodborne predecesors. Movement speed is overall faster. Instead of a shield, you are given a gun designed for hunting with silverbullets as ammunition. Estus flask are replaced with consumable Blood Vials as healing items. If you get hit, you can recover health by stricking back. All of this encompasses that Bloodborne is a faster paced game that rewards player to be more aggresive, as opposed to playing conservative in Dark Souls.
 
 Tetris [any system] (1984)
+
+A simple game that defines the puzzle genre. 
