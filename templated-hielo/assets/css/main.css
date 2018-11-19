@@ -8,6 +8,10 @@
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
 
+	.about p {
+		color: black;
+	}
+
 /* Reset */
 
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -217,6 +221,11 @@
 	}
 
 /* Grid */
+	#a {
+		text-align: center;
+		padding-top: 1em;
+		color: black;
+	}
 
 	.row {
 		border-bottom: solid 1px transparent;
@@ -4282,10 +4291,14 @@
 /* Footer */
 
 	#footer {
-		padding: 4rem 0 2rem 0 ;
+		padding: 4rem 0 3rem 0 ;
 		background: #000;
 		text-align: center;
 	}
+
+		#footer p { 
+			padding-bottom: -2em;
+		 }
 
 		#footer a {
 			color: rgba(255, 255, 255, 0.5);
